@@ -4,6 +4,11 @@
 
 ---
 
+## Live Demo
+[View the Website] (https://nouhailaazendoure.github.io/TechWorkshop/)
+
+---
+
 ## Overview
 
 **TechWorkshop** is an educational website designed for students and beginners who want to improve their digital and programming skills.
@@ -66,6 +71,6 @@ This project was developed collaboratively by a team of software engineering stu
 
 - Nouhaila Azendoure
 - Ayoub Ahadid
+- Asma Bari
 - Wisdom Malishana
 - Salma Essalhi
-- Asma Bari
